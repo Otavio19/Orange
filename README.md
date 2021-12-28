@@ -4,7 +4,7 @@
 <p>Nesse projeto meu objetivo era ter uma telinha que solicita-se algumas informações para que fossem registradas no LocalStorage e depois recuparedas em outra tela. Então desenvolvi esse projeto simples, onde solicita um titulo e a capa do filme. 📽️</p>
 
 <h2>Fonte</h2>
-<p>Site que usei para copiar as capaz com uma boa qualidade: https://imagemfilmes.com.br/filmes </p>
+<p>Site que usei para copiar as capas com uma boa qualidade: https://imagemfilmes.com.br/filmes </p>
 <hr>
 <h2>Imagens</h2>
 <h3>Login</h3>
